@@ -5,7 +5,7 @@
 
 <p align="center">- 🌱 I’m currently learning C programming language -</p>
 
-<p align="center">- 📫 How to reach me **4442@holbertonschool.com** -</p>
+<p align="center">- 📫 How to reach me: 4442@holbertonschool.com -</p>
 
 <br>
 

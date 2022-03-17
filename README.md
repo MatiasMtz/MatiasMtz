@@ -32,7 +32,7 @@
 <br>
 
 <p align="center"> <a href="https://github.com/MatiasMtz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiasMtz&show_icons=true&theme=synthwave&hide_border=true&icon_color=FF8C1F&text_color=e2e9ec" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiasMtz&show_icons=true&theme=synthwave&hide_border=true&icon_color=FF8C1F&text_color=e2e9ec&title_color=FF8C1F" /> 
 </a> </p>
 <p align="center"> <a href="https://github.com/MatiasMtz/github-readme-stats">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MatiasMtz&theme=synthwave&hide_border=true&text_color=FF8C1F&icon_color=FF8C1F&dates=FF8C1F&date_format=j%20M%5B%20Y%5D" />

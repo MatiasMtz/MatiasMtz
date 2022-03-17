@@ -27,13 +27,13 @@
       height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> </p>
+      width="40" height="40" /> </a> </p> 
 
 <br>
 
-<a href="https://github.com/MatiasMtz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiasMtz&show_icons=true&theme=synthwave&hide_border=true&icon_color=FF8C1F&text_color=e2e9ec" />
-</a>
-<a href="https://github.com/MatiasMtz/github-readme-stats">
+<p align="center"> <a href="https://github.com/MatiasMtz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiasMtz&show_icons=true&theme=synthwave&hide_border=true&icon_color=FF8C1F&text_color=e2e9ec" /> 
+</a> </p>
+<p align="center"> <a href="https://github.com/MatiasMtz/github-readme-stats">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MatiasMtz&theme=synthwave&hide_border=true&text_color=FF8C1F&icon_color=FF8C1F&dates=FF8C1F&date_format=j%20M%5B%20Y%5D" />
-</a>
+</a> </p>

@@ -1,23 +1,17 @@
 <h1 align="center">Hi there👋, I'm Matías Martínez</h1>
 <h3 align="center">Software Engineering Student at Holberton School, Montevideo.</h3>
-
 <br>
-
 <p align="center"> 🌱 I’m currently learning C programming language </p>
 
 <p align="center"> 📫 How to reach me: 4442@holbertonschool.com </p>
-
 <br>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/matiasmartinezhirsiger/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Matias Martinez" height="30" width="40" /></a>
 </p>
-
 <br>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -28,9 +22,7 @@
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
       width="40" height="40" /> </a> </p> 
-
 <br>
-
 <p align="center"> <a href="https://github.com/MatiasMtz/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiasMtz&show_icons=true&theme=synthwave&hide_border=true&icon_color=FF8C1F&text_color=e2e9ec&title_color=FF8C1F" /> 
 </a> </p>

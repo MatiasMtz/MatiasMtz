@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi there👋, I'm Matías Martínez</h1>
 <h3 align="center">Software development Student at Holberton School, Montevideo🌟.</h3>
 

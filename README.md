@@ -32,7 +32,7 @@
 <br>
 
 <a href="https://github.com/MatiasMtz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiasMtz&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiasMtz&show_icons=true&theme=dark&background" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasMtz&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />

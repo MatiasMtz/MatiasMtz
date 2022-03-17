@@ -9,8 +9,8 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/matiasmartinezhirsiger/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Matias Martinez" height="30" width="40" /></a>
@@ -18,8 +18,8 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
     target="_blank" rel="noreferrer"> <img
@@ -31,9 +31,9 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiasMtz&show_icons=true&theme=tokyonight"
+<p>&nbsp;<align="center" src="https://github-readme-stats.vercel.app/api?username=MatiasMtz&show_icons=true&theme=tokyonight"
     alt="Stats" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasMtz&theme=tokyonight=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="More stats" /></p>
+<p align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasMtz&theme=tokyonight=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="More stats" /></p>

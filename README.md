@@ -32,8 +32,8 @@
 <br>
 
 <a href="https://github.com/MatiasMtz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiasMtz&show_icons=true&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiasMtz&show_icons=true&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF8C1F&dates=FF8C1F&currStreakLabel=FF8C1F" />
 </a>
 <a href="https://github.com/MatiasMtz/github-readme-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MatiasMtz&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF8C1F&dates=FF8C1F&currStreakLabel=FF8C1F)](https://git.io/streak-stats" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MatiasMtz&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF8C1F&dates=FF8C1F&currStreakLabel=FF8C1F" />
 </a>

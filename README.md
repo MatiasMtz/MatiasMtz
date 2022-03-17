@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Matías Martínez</h1>
-<h3 align="center">Software Engineering Student at Holberton School, Montevideo🌟.</h3>
+<h3 align="center">Software Engineering Student at Holberton School, Montevideo.</h3>
 
 <br>
 
@@ -31,9 +31,9 @@
 
 <br>
 
-<p>&nbsp;<align="center" src="https://github-readme-stats.vercel.app/api?username=MatiasMtz&show_icons=true&theme=tokyonight"
-    alt="Stats" /></p>
-
-<br>
-
-<p align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasMtz&theme=tokyonight=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="More stats" /></p>
+<a href="https://github.com/MatiasMtz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasMtz&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasMtz&repo=convoychat" />
+</a>

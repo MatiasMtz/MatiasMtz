@@ -3,9 +3,9 @@
 
 <br>
 
-<h2 align="center">- 🌱 I’m currently learning C programming language -</h2>
+<align="center">- 🌱 I’m currently learning C programming language -
 
-<h2 align="center">- 📫 How to reach me **4442@holbertonschool.com** -</h2>
+<align="center">- 📫 How to reach me **4442@holbertonschool.com** -
 
 <br>
 

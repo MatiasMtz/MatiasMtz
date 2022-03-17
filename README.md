@@ -35,5 +35,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiasMtz&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://camo.githubusercontent.com/3ab133c7ec9815610ad6eab1c5995f1deb7a3e4f52cc0490c713601bdaae3769/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4164616d2d7077267468656d653d6461726b266261636b67726f756e643d30643131313726646174655f666f726d61743d4d2532306a25354225324325323059253544" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasMtz&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
 </a>

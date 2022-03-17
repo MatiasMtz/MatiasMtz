@@ -3,15 +3,13 @@
 <br>
 <p align="center"> 🌱 I’m currently learning C programming language </p>
 
-<p align="center"> 📫 Contact me throught: 4442@holbertonschool.com </p>
-<br>
+<p align="center"> 📫 Contact me through: 4442@holbertonschool.com </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/matiasmartinezhirsiger/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Matias Martinez" height="30" width="40" /></a>
 </p>
-<br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -22,7 +20,6 @@
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
       width="40" height="40" /> </a> </p> 
-<br>
 <p align="center"> <a href="https://github.com/MatiasMtz/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiasMtz&show_icons=true&theme=synthwave&hide_border=true&icon_color=FF8C1F&text_color=e2e9ec&title_color=FF8C1F" /> 
 </a> </p>

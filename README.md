@@ -3,15 +3,9 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=MatiasMtz&label=Profile%20views&color=0e75b6&style=flat"
-    alt="profile Stats" /> 
-  </p>
+<h2 align="center">- 🌱 I’m currently learning C programming language -</h2>
 
-<br>
-
-- 🌱 I’m currently learning C programming language.
-
-- 📫 How to reach me **4442@holbertonschool.com**
+<h2 align="center">- 📫 How to reach me **4442@holbertonschool.com** -</h2>
 
 <br>
 

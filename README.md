@@ -35,5 +35,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiasMtz&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/MatiasMtz/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasMtz&theme=github_dark=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MatiasMtz&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF8C1F&dates=FF8C1F&currStreakLabel=FF8C1F)](https://git.io/streak-stats" />
 </a>

@@ -3,7 +3,7 @@
 <br>
 <p align="center"> 🌱 I’m currently learning C programming language </p>
 
-<p align="center"> 📫 How to reach me: 4442@holbertonschool.com </p>
+<p align="center"> 📫 Contact me throught: 4442@holbertonschool.com </p>
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">

@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Matías Martínez</h1>
 <h3 align="center">I'm currently studying Software Engineering at Holberton School.</h3>
-<p align="center"> 🌱 Learning C programming language </p>
+<p align="center"> 🌱 Learning Javascript programming language </p>
 
 <p align="center"> 📫 Contact me through: 4442@holbertonschool.com </p>
 <h3 align="center">Connect with me:</h3>

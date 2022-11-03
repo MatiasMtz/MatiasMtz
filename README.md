@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://pa1.narvii.com/8153/b70bf11d460f0eac1c29700f6a8723b4f934b5e4r1-475-167_hq.gif" width="100%" title="Portada" alt="Carta Portada">
-  **“Knowledge is power.”** – Francis Bacon
+  <b>“Knowledge is power.”</b> – Francis Bacon
 </p>
 
 I'm currently studying Software Engineering at Holberton School. :wink:

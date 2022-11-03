@@ -12,7 +12,7 @@ I'm currently studying Software Engineering at Holberton School. :wink:
  
  🌱 I’m currently learning React
  
- 🌟 My latest project [<img alt="plan it now" width="22px" src="https://img.icons8.com/color/48/000000/worldwide-location.png" />][portfolio]
+ 🌟 My latest project [<img alt="plan it now" width="22px" src="https://img.icons8.com/clouds/100/000000/nui2.png" />][portfolio]
 
  📚 Someday I want to learn Unreal Engine/>
 

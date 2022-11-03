@@ -42,7 +42,7 @@ I'm currently studying Software Engineering at Holberton School. :wink:
 ---
 ### You can checkout my blogs :loudspeaker: 
 
-[<img align="left" alt="Class & instance attribute" max-width="30%" src="https://media.licdn.com/dms/image/D4D12AQGM6wqwa0f-uQ/article-cover_image-shrink_423_752/0/1653416674567?e=1672876800&v=beta&t=5X_lTOCaH8qGYL4l0lVAq8z6VEswG4TPi0kngiD4pH0" />][classBlog]
+[<img align="left" alt="Class & instance attribute" max-width="100px" src="https://media.licdn.com/dms/image/D4D12AQGM6wqwa0f-uQ/article-cover_image-shrink_423_752/0/1653416674567?e=1672876800&v=beta&t=5X_lTOCaH8qGYL4l0lVAq8z6VEswG4TPi0kngiD4pH0" />][classBlog]
 
 
 [Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 

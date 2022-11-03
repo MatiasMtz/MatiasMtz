@@ -12,6 +12,8 @@ I'm currently studying Software Engineering at Holberton School. :wink:
  
  🌱 I’m currently learning React
  
+ 🌟 My latest project [<img align="left" alt="plan it now" width="22px" src="https://img.icons8.com/color/48/000000/worldwide-location.png" />][portfolio]
+
  📚 Someday I want to learn Unreal Engine/>
 
 ![Profile views](https://gpvc.arturio.dev/MatiasMtz)
@@ -34,8 +36,7 @@ I'm currently studying Software Engineering at Holberton School. :wink:
 ---
 
 
-### You can find in me in the web 🌍
-[<img align="left" alt="Portfolio" width="22px" src="https://img.icons8.com/material-rounded/24/FFFFFF/domain--v1.png" />][portfolio]
+### You can contact me through 
 [<img align="left" alt="Matias | LinkedIn" width="22px" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/linkedin-circled--v1.png" />][linkedin]
 
 <br/>

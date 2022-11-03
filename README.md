@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://pa1.narvii.com/8153/b70bf11d460f0eac1c29700f6a8723b4f934b5e4r1-475-167_hq.gif" width="100%" title="Portada" alt="Carta Portada">
+  **“Knowledge is power.”** – Francis Bacon
 </p>
 
 I'm currently studying Software Engineering at Holberton School. :wink:
@@ -34,12 +35,6 @@ I'm currently studying Software Engineering at Holberton School. :wink:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasMtz&theme=github_dark&show_icons=true)
 
 ---
-
-### You can contact with me through 
-[<img align="left" alt="Matias | LinkedIn" width="30px" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/linkedin-circled--v1.png" />][linkedin]
-|| matias.martinez@holbertonstudents.com
-
----
 ### You can checkout my latests blogs :loudspeaker: 
 
 [<img alt="Class & instance attribute" width="33%" height="180px" src="https://media.licdn.com/dms/image/D4D12AQGM6wqwa0f-uQ/article-cover_image-shrink_423_752/0/1653416674567?e=1672876800&v=beta&t=5X_lTOCaH8qGYL4l0lVAq8z6VEswG4TPi0kngiD4pH0" />][classBlog]
@@ -47,8 +42,11 @@ I'm currently studying Software Engineering at Holberton School. :wink:
 [<img alt="Libraries in C" width="33%" height="180px" src="https://media.licdn.com/dms/image/C4E12AQGZKv6JlmeCaA/article-cover_image-shrink_720_1280/0/1643944250418?e=1672876800&v=beta&t=AcP9YK_MAunawALYAwaTSHqEvtLKdQ-vmPkPiuDz8bY" />][links]
 
 ---
+### You can contact with me through 
+[<img align="left" alt="Matias | LinkedIn" width="30px" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/linkedin-circled--v1.png" />][linkedin]
+|| matias.martinez@holbertonstudents.com
 
-**“Knowledge is power.”** – Francis Bacon
+---
 
 **Check the Repositories and don't forget to give a star.** 😌
 

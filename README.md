@@ -37,12 +37,12 @@ I'm currently studying Software Engineering at Holberton School. :wink:
 
 ### You can contact with me through 
 [<img align="left" alt="Matias | LinkedIn" width="30px" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/linkedin-circled--v1.png" />][linkedin]
-||       matias.martinez@holbertonstudents.com
+|| matias.martinez@holbertonstudents.com
 
 ---
 ### You can checkout my blogs :loudspeaker: 
 
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
+[![CLASS & INSTANCE ATTRIBUTES IN PYTHON](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://www.linkedin.com/pulse/class-instance-attributes-python-matias-martinez/)
 
 [Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
 

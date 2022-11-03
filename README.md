@@ -29,7 +29,7 @@ I'm currently studying Software Engineering at Holberton School. :wink:
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=MatiasMtz&show_icons=true&theme=synthwave&hide_border=true&icon_color=FF8C1F&text_color=e2e9ec&title_color=FF8C1F)
+![GitHub stats]([https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=MatiasMtz&show_icons=true&theme=synthwave&hide_border=true&icon_color=FF8C1F&text_color=e2e9ec&title_color=FF8C1F])
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
 

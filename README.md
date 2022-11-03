@@ -30,6 +30,7 @@ I'm currently studying Software Engineering at Holberton School. :wink:
 ---
 
 | ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasMtz&theme=github_dark&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasMtz&theme=github_dark&layout=compact) |
+| --- | --- |
 
 ---
 
@@ -56,8 +57,6 @@ I'm currently studying Software Engineering at Holberton School. :wink:
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
-
-:star: From [Souravdey777](https://github.com/Souravdey777)
 
 [website]: https://souravdey777.github.io/Portfolio/
 [twitter]: https://twitter.com/Souravdey777

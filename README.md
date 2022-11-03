@@ -35,9 +35,8 @@ I'm currently studying Software Engineering at Holberton School. :wink:
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Portfolio" width="22px" src="https://img.icons8.com/material-rounded/24/FFFFFF/domain--v1.png" />][Portfolio]
-[<img align="left" alt="Matias | LinkedIn" width="22px" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/linkedin-circled--v1.png" />][Linkedin]
-[<img align="left" alt="Matias | eMail" width="22px" src="https://img.icons8.com/material-rounded/24/FFFFFF/mail-account.png" />][eMail]
+[<img align="left" alt="Portfolio" width="22px" src="https://img.icons8.com/material-rounded/24/FFFFFF/domain--v1.png" />][portfolio]
+[<img align="left" alt="Matias | LinkedIn" width="22px" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/linkedin-circled--v1.png" />][linkedin]
 
 <br/>
 
@@ -55,9 +54,5 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-[website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/
+[portfolio]: https://planitnow.app/
+[linkedin]: https://www.linkedin.com/in/matiasmartinezhirsiger/

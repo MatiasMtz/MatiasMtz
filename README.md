@@ -13,7 +13,7 @@ I'm currently studying Software Engineering at Holberton School.
  
  🌱 Currently learning ReactJs
  
- 📚 Someday I want to learn Unreal Engine.
+ 📚 Someday I want to learn Unreal Engine & C sharp.
  
  🌟 [<a href="https://planitnow.app/" _blank rel=”noreferrer” style="text-decoration:none;">My latest project</a>][portfolio]
 

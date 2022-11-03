@@ -34,7 +34,7 @@ I'm currently studying Software Engineering at Holberton School. :wink:
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 ### Other Tools I know
-<img src="http://img.shields.io/badge/-Photoshop-F89820?style=flat&logo=photoshop&logoColor=white"> <img src="https://img.shields.io/badge/-Ligthroom-1faecf?style=flat&logo=lightroom&logoColor=white"> 
+<img src="[http://img.shields.io/badge/-Photoshop-F89820?style=flat&logo=photoshop&logoColor=white](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)"> <img src="https://img.shields.io/badge/-Ligthroom-1faecf?style=flat&logo=lightroom&logoColor=white"> 
 
 ---
 

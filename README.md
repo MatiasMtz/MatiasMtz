@@ -30,11 +30,18 @@
       alt="c" width="40" height="40" /> 
 
 </a> 
-
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-
+      <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+      <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Html"/>
+      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="Css"/>
+      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySql"/>
+      <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+      <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" alt="Photoshop"/>
+      <img src="https://img.icons8.com/color/48/000000/adobe-lightroom--v1.png" alt="Ligthroom" />
+      <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png" alt="After Effects"/>
+      <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma"/>
 </a> 
 
 <a href="https://www.photoshop.com/en" target="_blank"

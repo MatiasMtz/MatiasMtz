@@ -42,9 +42,9 @@ I'm currently studying Software Engineering at Holberton School. :wink:
 ---
 ### You can checkout my blogs :loudspeaker: 
 
-[<img align="left" alt="Class & instance attribute" width="30%" height="150px" src="https://media.licdn.com/dms/image/D4D12AQGM6wqwa0f-uQ/article-cover_image-shrink_423_752/0/1653416674567?e=1672876800&v=beta&t=5X_lTOCaH8qGYL4l0lVAq8z6VEswG4TPi0kngiD4pH0" />][classBlog]
-[<img align="center" alt="Libraries in C" width="30%" height="150px" src="https://media.licdn.com/dms/image/C4D12AQENxeMuB-M8TA/article-cover_image-shrink_720_1280/0/1646445918419?e=1672876800&v=beta&t=WxNKfzrBVBGBG_bKv0bblBTyQYr28oLZskdvd_2ui74" />][libraries]
-[<img align="right" alt="Libraries in C" width="30%" height="150px" src="https://media.licdn.com/dms/image/C4E12AQGZKv6JlmeCaA/article-cover_image-shrink_720_1280/0/1643944250418?e=1672876800&v=beta&t=AcP9YK_MAunawALYAwaTSHqEvtLKdQ-vmPkPiuDz8bY" />][links]
+[<img alt="Class & instance attribute" width="30%" height="150px" src="https://media.licdn.com/dms/image/D4D12AQGM6wqwa0f-uQ/article-cover_image-shrink_423_752/0/1653416674567?e=1672876800&v=beta&t=5X_lTOCaH8qGYL4l0lVAq8z6VEswG4TPi0kngiD4pH0" />][classBlog]
+[<img alt="Libraries in C" width="30%" height="150px" src="https://media.licdn.com/dms/image/C4D12AQENxeMuB-M8TA/article-cover_image-shrink_720_1280/0/1646445918419?e=1672876800&v=beta&t=WxNKfzrBVBGBG_bKv0bblBTyQYr28oLZskdvd_2ui74" />][libraries]
+[<img alt="Libraries in C" width="30%" height="150px" src="https://media.licdn.com/dms/image/C4E12AQGZKv6JlmeCaA/article-cover_image-shrink_720_1280/0/1643944250418?e=1672876800&v=beta&t=AcP9YK_MAunawALYAwaTSHqEvtLKdQ-vmPkPiuDz8bY" />][links]
 
 ---
 

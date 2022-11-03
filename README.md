@@ -21,15 +21,7 @@
 
 <h3>Languages and Tools: </h3>
 
-<p>
-
-<a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> 
-
-</a> 
+<div style="align-items: center;">
       <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
       <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
       <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
@@ -42,16 +34,7 @@
       <img src="https://img.icons8.com/color/48/000000/adobe-lightroom--v1.png" alt="Ligthroom" />
       <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png" alt="After Effects"/>
       <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma"/>
-</a> 
-
-<a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> 
-
-</a> 
-
-</p>
+</div>
 
 <p> 
 

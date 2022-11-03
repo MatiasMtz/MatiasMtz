@@ -46,9 +46,6 @@ I'm currently studying Software Engineering at Holberton School. :wink:
 [<img align="left" alt="Libraries in C" width="30%" src="https://media.licdn.com/dms/image/C4D12AQENxeMuB-M8TA/article-cover_image-shrink_720_1280/0/1646445918419?e=1672876800&v=beta&t=WxNKfzrBVBGBG_bKv0bblBTyQYr28oLZskdvd_2ui74" />][libraries]
 [<img align="left" alt="Libraries in C" width="30%" src="https://media.licdn.com/dms/image/C4E12AQGZKv6JlmeCaA/article-cover_image-shrink_720_1280/0/1643944250418?e=1672876800&v=beta&t=AcP9YK_MAunawALYAwaTSHqEvtLKdQ-vmPkPiuDz8bY" />][links]
 
-
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
-
 ---
 
 Let's connect 👨‍💻 and forge the future together.😁✌

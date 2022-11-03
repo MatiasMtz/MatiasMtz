@@ -9,11 +9,11 @@
 
 I'm currently studying Software Engineering at Holberton School.
  
- 🔭 I’m looking to develop myself professionally in the IT field.
+ 🔭 Looking to develop myself professionally in the IT field.
  
- 🌱 I’m currently learning ReactJs
+ 🌱 Currently learning ReactJs
  
- 📚 Someday I want to learn Unreal Engine/>
+ 📚 Someday I want to learn Unreal Engine.
  
  🌟 [<a href="https://planitnow.app/" _blank rel=”noreferrer” style="text-decoration:none;">My latest project</a>][portfolio]
 

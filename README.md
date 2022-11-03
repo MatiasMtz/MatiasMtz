@@ -3,22 +3,21 @@
 ---
 
 <p align="center">
-  <img src="https://pa1.narvii.com/8153/b70bf11d460f0eac1c29700f6a8723b4f934b5e4r1-475-167_hq.gif" width="100%" title="Portada" alt="Carta Portada">
-  <b>“Knowledge is power.”</b> – Francis Bacon
+  <img src="https://pa1.narvii.com/8153/b70bf11d460f0eac1c29700f6a8723b4f934b5e4r1-475-167_hq.gif" width="100%" title="Portada" alt="Portada">
+  <b>“Knowledge is power”</b> – Francis Bacon
 </p>
 
 I'm currently studying Software Engineering at Holberton School. :wink:
  
  🔭 I’m looking to develop myself professionally in the IT field.
  
- 🌱 I’m currently learning React
+ 🌱 I’m currently learning ReactJs
  
  📚 Someday I want to learn Unreal Engine/>
  
  🌟 [<a href="https://planitnow.app/" _blank rel=”noreferrer” style="text-decoration:none;">My latest project</a>][portfolio]
 
 ![Profile views](https://gpvc.arturio.dev/MatiasMtz)
-
 
 ---
 

@@ -35,13 +35,9 @@ I'm currently studying Software Engineering at Holberton School. :wink:
 
 ---
 
-
-### You can contact me through 
+### You can contact with me through 
 [<img align="left" alt="Matias | LinkedIn" width="30px" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/linkedin-circled--v1.png" />][linkedin]
 <img align="left" alt="Matias | eMail" width="30px" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/circled-envelope.png" /> matias.martinez@holbertonstudents.com
-
-<br/>
-
 
 ---
 ### You can checkout my blogs :loudspeaker: 

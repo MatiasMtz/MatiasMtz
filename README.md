@@ -27,7 +27,7 @@ I'm currently studying Software Engineering at Holberton School. :wink:
 ### Other Tools I know
 ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
-:-:
+---
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasMtz&theme=github_dark&show_icons=true)
 

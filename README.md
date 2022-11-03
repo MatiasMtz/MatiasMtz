@@ -12,9 +12,9 @@ I'm currently studying Software Engineering at Holberton School. :wink:
  
  🌱 I’m currently learning React
  
- 🌟 [<a href="https://planitnow.app/" _blank rel=”noreferrer”>My latest project</a>][portfolio]
-
  📚 Someday I want to learn Unreal Engine/>
+ 
+ 🌟 [<a href="https://planitnow.app/" _blank rel=”noreferrer” style="text-decoration:none;">My latest project</a>][portfolio]
 
 ![Profile views](https://gpvc.arturio.dev/MatiasMtz)
 

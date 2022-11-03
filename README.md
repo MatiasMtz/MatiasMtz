@@ -48,7 +48,7 @@ I'm currently studying Software Engineering at Holberton School.
 ---
 
 **Check the Repositories and don't forget to give a star.** 😌
----
+
 **Last modified: 03/11/2022**
 
 [portfolio]: https://planitnow.app/

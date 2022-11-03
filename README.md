@@ -29,7 +29,7 @@ I'm currently studying Software Engineering at Holberton School. :wink:
 
 ---
 
-![GitHub stats]([https://github-readme-stats.vercel.app/api?username=MatiasMtz&show_icons=true&hide_border=true])
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasMtz&theme=dark&show_icons=true)
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
 

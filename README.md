@@ -7,7 +7,7 @@
   <b>“Knowledge is power”</b> – Francis Bacon
 </p>
 
-I'm currently studying Software Engineering at Holberton School. :wink:
+I'm currently studying Software Engineering at Holberton School.
  
  🔭 I’m looking to develop myself professionally in the IT field.
  
@@ -48,6 +48,7 @@ I'm currently studying Software Engineering at Holberton School. :wink:
 ---
 
 **Check the Repositories and don't forget to give a star.** 😌
+**Last modified: 03/11/2022**
 
 [portfolio]: https://planitnow.app/
 [linkedin]: https://www.linkedin.com/in/matiasmartinezhirsiger/

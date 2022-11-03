@@ -34,7 +34,7 @@ I'm currently studying Software Engineering at Holberton School.
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasMtz&theme=github_dark&show_icons=true)
 
 ---
-### You can checkout my latests blogs :loudspeaker: 
+### You can check my most recent blogs :loudspeaker: 
 
 [<img alt="Class & instance attribute" width="33%" height="180px" src="https://media.licdn.com/dms/image/D4D12AQGM6wqwa0f-uQ/article-cover_image-shrink_423_752/0/1653416674567?e=1672876800&v=beta&t=5X_lTOCaH8qGYL4l0lVAq8z6VEswG4TPi0kngiD4pH0" />][classBlog]
 [<img alt="Libraries in C" width="33%" height="180px" src="https://media.licdn.com/dms/image/C4D12AQENxeMuB-M8TA/article-cover_image-shrink_720_1280/0/1646445918419?e=1672876800&v=beta&t=WxNKfzrBVBGBG_bKv0bblBTyQYr28oLZskdvd_2ui74" />][libraries]

@@ -35,11 +35,9 @@ I'm currently studying Software Engineering at Holberton School. :wink:
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Portfolio" width="22px" src="https://img.icons8.com/material-rounded/24/FFFFFF/domain--v1.png" />][Portfolio]
+[<img align="left" alt="Matias | LinkedIn" width="22px" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/linkedin-circled--v1.png" />][Linkedin]
+[<img align="left" alt="Matias | eMail" width="22px" src="https://img.icons8.com/material-rounded/24/FFFFFF/mail-account.png" />][eMail]
 
 <br/>
 

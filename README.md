@@ -49,7 +49,9 @@ I'm currently studying Software Engineering at Holberton School.
 
 **Check the Repositories and don't forget to give a star.** 😌
 
-**✍🏻 November 3rd, 2022**
+<p align="right">
+  ✍🏻<b>November 3rd, 2022</b>
+</p>
 
 [portfolio]: https://planitnow.app/
 [linkedin]: https://www.linkedin.com/in/matiasmartinezhirsiger/

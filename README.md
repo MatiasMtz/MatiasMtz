@@ -15,7 +15,7 @@ I'm currently studying Software Engineering at Holberton School.
  
  📚 Someday I want to learn Unreal Engine & C sharp.
  
- 🌟 [<a href="https://planitnow.app/" _blank rel=”noreferrer” style="text-decoration:none;">My latest project</a>][portfolio]
+ <!--🌟 [<a href="https://planitnow.app/" _blank rel=”noreferrer” style="text-decoration:none;">My latest project</a>][portfolio]-->
 
 ![Profile views](https://gpvc.arturio.dev/MatiasMtz)
 

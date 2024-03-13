@@ -13,7 +13,7 @@ I'm currently studying Software Engineering.
  
  🌱 Currently learning ReactJs
  
- 📚 Someday I want to learn Unreal Engine & C sharp.
+ 📚 In the near future I would like to learn Unreal Engine & C#.
  
  <!--🌟 [<a href="https://planitnow.app/" _blank rel=”noreferrer” style="text-decoration:none;">My latest project</a>][portfolio]-->
 

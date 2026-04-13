@@ -41,7 +41,6 @@ I'm currently studying Software Engineering.
 ---
 ### You can contact with me through 
 [<img align="left" alt="Matias | LinkedIn" width="30px" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/linkedin-circled--v1.png" />][linkedin]
-|| matias.martinez@holbertonstudents.com
 
 ---
 
